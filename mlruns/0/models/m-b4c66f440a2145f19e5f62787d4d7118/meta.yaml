@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/preet/Documents/MLOps%20Bootcamp%20Krish%20Naik%20Udemy/End_to_end_DS_Project/datascienceproject1/mlruns/0/models/m-b4c66f440a2145f19e5f62787d4d7118/artifacts
+creation_timestamp: 1750683635089
+experiment_id: '0'
+last_updated_timestamp: 1750683644011
+model_id: m-b4c66f440a2145f19e5f62787d4d7118
+model_type: null
+name: model
+source_run_id: 5153b3233b44465b97fac705bf410c56
+status: 2
+status_message: null
